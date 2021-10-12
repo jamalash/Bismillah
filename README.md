@@ -1,4 +1,5 @@
 # Bismillah
 To new beginnings!
-learning how to create branches and commit.
-it is tuesday today
+Learning how to create branches and commit.
+It is tuesday today
+Feeling alright
